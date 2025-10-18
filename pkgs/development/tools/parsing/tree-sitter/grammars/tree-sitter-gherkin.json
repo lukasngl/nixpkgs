@@ -1,0 +1,14 @@
+{
+  "url": "https://github.com/binhtran432k/tree-sitter-gherkin",
+  "rev": "1a709aebeecbe81bd70dfd6ea784894844be1511",
+  "date": "2025-02-27T21:10:48Z",
+  "path": "/nix/store/6my1rx6qhfb2iwmv1kgylykh85hdx1pw-tree-sitter-gherkin",
+  "sha256": "1gh1gmyiyl0a47jg8jczl1f51y03il9px0z98jy8y91kcxrcp4vb",
+  "hash": "sha256-a5PLcmczJI+8ROmDfhONA/hQXKCfSfTkIQpQH319Ab4=",
+  "fetchLFS": false,
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "fetchTags": false,
+  "leaveDotGit": false,
+  "rootDir": ""
+}

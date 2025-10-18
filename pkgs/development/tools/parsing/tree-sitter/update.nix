@@ -344,6 +344,10 @@ let
       orga = "blessanabraham";
       repo = "tree-sitter-gemini";
     };
+    "tree-sitter-gherkin" = {
+      orga = "binhtran432k";
+      repo = "tree-sitter-gherkin";
+    };
     "tree-sitter-go-template" = {
       orga = "ngalaiko";
       repo = "tree-sitter-go-template";

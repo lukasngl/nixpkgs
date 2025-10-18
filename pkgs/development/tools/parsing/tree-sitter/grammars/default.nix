@@ -33,6 +33,7 @@
   tree-sitter-fortran = lib.importJSON ./tree-sitter-fortran.json;
   tree-sitter-gdscript = lib.importJSON ./tree-sitter-gdscript.json;
   tree-sitter-gemini = lib.importJSON ./tree-sitter-gemini.json;
+  tree-sitter-gherkin = lib.importJSON ./tree-sitter-gherkin.json;
   tree-sitter-gleam = lib.importJSON ./tree-sitter-gleam.json;
   tree-sitter-glimmer = lib.importJSON ./tree-sitter-glimmer.json;
   tree-sitter-glsl = lib.importJSON ./tree-sitter-glsl.json;
