@@ -18,6 +18,7 @@
   tree-sitter-cue = lib.importJSON ./tree-sitter-cue.json;
   tree-sitter-dart = lib.importJSON ./tree-sitter-dart.json;
   tree-sitter-devicetree = lib.importJSON ./tree-sitter-devicetree.json;
+  tree-sitter-diff = lib.importJSON ./tree-sitter-diff.json;
   tree-sitter-dockerfile = lib.importJSON ./tree-sitter-dockerfile.json;
   tree-sitter-dot = lib.importJSON ./tree-sitter-dot.json;
   tree-sitter-earthfile = lib.importJSON ./tree-sitter-earthfile.json;

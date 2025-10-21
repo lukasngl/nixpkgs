@@ -220,6 +220,10 @@ let
       orga = "ram02z";
       repo = "tree-sitter-fish";
     };
+    "tree-sitter-diff" = {
+      orga = "the-mikedavis";
+      repo = "tree-sitter-diff";
+    };
     "tree-sitter-dot" = {
       orga = "rydesun";
       repo = "tree-sitter-dot";
